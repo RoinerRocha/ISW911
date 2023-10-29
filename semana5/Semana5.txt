@@ -1,0 +1,2 @@
+se pusieron en practica las siguientes operaciones en power BI
+Monto de ventas = sum(fact_ventas[ventas]), Calculate(sum(fact_ventas[ventas])), entre otros
